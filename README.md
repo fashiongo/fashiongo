@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **fashiongo/fashiongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Y4wfKUlf](https://github.com/user-attachments/assets/0ad19659-f2d8-4e08-823e-941d8c14e74f)
